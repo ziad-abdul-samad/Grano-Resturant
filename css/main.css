@@ -338,7 +338,7 @@ header .container ul li a:hover::after {
     font-size: 20px;
     /* padding: 3px 5px; */
     background-color: var(--main-color-y);
-    color: white;
+    color: var(--main-color-p);
     /* color: var(--main-color-y); */
     border-radius: 4px;
     padding: 5px 30px;
