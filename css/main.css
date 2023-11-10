@@ -18,16 +18,28 @@
     }
 }
 .sections-title {
-    font-size: 16px;
+    /* font-size: 16px;
     color: var(--main-color-y);
-    /* text-shadow: 0px 3px 3px var(--alt-color-y); */
     padding: 10px;
     text-align: right;    
     background-color: var(--main-color-p);
     width: fit-content;
     border-radius: 8px;
     margin-top: 15px;
+    margin-bottom: 10px; */
+    background-color: #5aa8c2;
+    font-size: 18px;
+    /* color: var(--main-color-y); */
+    /* text-shadow: 0px 3px 3px var(--alt-color-y); */
+    padding: 10px 15px;
+    text-align: right;
+    /* background-color: var(--main-color-p); */
+    width: fit-content;
+    border-radius: 8px;
+    margin-top: 15px;
     margin-bottom: 10px;
+    margin: 15px auto 10px;
+    color: white;
 }
 
 .number {
@@ -50,7 +62,7 @@
     text-decoration: none;
     }
     :root {
-    --blue:#00CED5;
+    --blue:#5aa8c2;
     --main-color-p:#67347F;
     --alt-color-p:#BE8CE5;
     /* --main-color-y : #ffeb3b; */
@@ -59,6 +71,7 @@
     --gradient-p:linear-gradient(103deg, rgba(93,42,123,1) 44%, rgba(190,140,229,1) 100%);
     --gradient-y :linear-gradient(103deg, rgba(255,235,59,1) 33%, rgba(255,241,118,1) 100%);
     --mixed-gradient:linear-gradient(74deg, rgba(255,235,59,1) 0%, rgba(93,42,123,1) 73%);
+    --pistachio-color:#588EA0;
     --font-family:'El Messiri', sans-serif;
     }
 
